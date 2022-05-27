@@ -1,0 +1,4 @@
+rootProject.name = 'onepiece'
+include 'onepiece-web'
+include 'onepiece-data'
+
